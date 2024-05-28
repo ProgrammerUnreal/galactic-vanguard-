@@ -1,0 +1,12 @@
+{
+    "+XEm%p#CZCn?GusVno`a": {
+        "data": "hwQQABQAAAAAAAD///////8PAAAAAPQRERQR8VUPAAAAAB8RQRERX/UAAAAA8BERFBHx9Q8AAAAAHxFBERFfDwAAAADwiIgYEfH1/wQAAACPn5mJEV///0QEAACY+ZmZ+PX//0REAACPn5mJEV///0QEAADwiIgYEfH1/wQAAAAAHxFBERFfDwAAAAAA8BERFBHx9Q8AAAAAAB8RQRERX/UAAAAAAPQRERQR8VUPAAAAAAD///////8PAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spaceship"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
